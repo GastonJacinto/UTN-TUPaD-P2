@@ -182,7 +182,6 @@ public class Main {
         System.out.println("Precio: $" + arr[index]);
         imprimirRecursivo(arr, index + 1);
     }
-
     public static void main(String[] args) {
 //        exOne();
 //        exTwo();
